@@ -1,0 +1,30 @@
+[33mcommit 4a7535a140a2a001ea5b6482be8ce4d29d848a13[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Arpit Durge <143288130+arpitdurge37@users.noreply.github.com>
+Date:   Sat Apr 13 21:18:39 2024 +0530
+
+    first commit
+
+[33mcommit 8b8b4d5b14505f0afecebc43b45129c98f5d70cc[m
+Merge: cce5289 4909900
+Author: Arpit Durge <143288130+arpitdurge37@users.noreply.github.com>
+Date:   Sat Apr 13 20:39:22 2024 +0530
+
+    Merge branch 'main' of https://github.com/arpitdurge37/shopping
+
+[33mcommit cce528927484c99f6feaca0c3644d36648baf830[m
+Author: Arpit Durge <143288130+arpitdurge37@users.noreply.github.com>
+Date:   Sat Apr 13 20:30:30 2024 +0530
+
+    Upload
+
+[33mcommit 49099000ee3cb72296991fa9ab8bf89fdcd2c5e3[m
+Author: Arpit Durge <143288130+arpitdurge37@users.noreply.github.com>
+Date:   Sat Apr 13 19:39:22 2024 +0530
+
+    Rename amazon card.html to index.html
+
+[33mcommit b5887a4cbf70c67a6dbed003ec7113ffc0595194[m
+Author: Arpit Durge <143288130+arpitdurge37@users.noreply.github.com>
+Date:   Sat Apr 13 19:36:39 2024 +0530
+
+    first commit
